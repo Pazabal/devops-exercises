@@ -14,8 +14,7 @@ Aprendo infra en AWS y Azure, seguridad, automatización, y cómo usar LLM/RAG p
 
 **Tips:** 30 min/día, documentar errores, usar Git, buscar constancia, no perfección.
 
-Links útiles en el README. 
-
+Links útiles en el README. Necesitas ayuda? Acá estoy.
 
 ---
 
