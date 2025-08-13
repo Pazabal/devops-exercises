@@ -12,7 +12,7 @@ Cada ejercicio tiene pasos, archivos y espacio para mis notas y errores.
 
 Aprendo infra en AWS y Azure, seguridad, automatización, y cómo usar LLM/RAG para mejorar flujos.
 
-**Tips:** 30 min/día, documentar errores, usar Git, buscar constancia, no perfección.
+**Tips:** 30 min/día, documentar errores, buscar constancia, no perfección.
 
 Links útiles en el README. Necesitas ayuda? Acá estoy. Se aprende mejor enseñando.
 
