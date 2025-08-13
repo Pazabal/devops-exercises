@@ -1,20 +1,26 @@
-# Notas DevOps + AI
+# DevOps + AI Notes
+A repo to practice DevOps (K8s, Terraform, Vault, Ansible, Istio, Azure) and AI (LLMs, RAG).
 
-Espacio para practicar DevOps (K8s, Terraform, Vault, Ansible, Istio, Azure) y AI (LLM, RAG).
+## I organize exercises by levels:
 
-Divido ejercicios por niveles:
+- Basic – to get started
 
-- Básico para arrancar  
-- Intermedio para mezclar herramientas  
-- Avanzado para desafíos DevOps + AI  
+- Intermediate – to combine tools and workflows
 
-Cada ejercicio tiene pasos, archivos y espacio para mis notas y errores.
+- Advanced – real challenges mixing DevOps + AI
 
-Aprendo infra en AWS y Azure, seguridad, automatización, y cómo usar LLM/RAG para mejorar flujos.
+Each exercise includes clear steps, example files, and a place for my own notes and mistakes.
 
-**Tips:** 30 min/día, documentar errores, buscar constancia, no perfección.
+I'm learning cloud infrastructure on AWS and Azure, automation, security, and how to use LLMs and RAG to improve real workflows.
 
-Links útiles en el README. Necesitas ayuda? Acá estoy. Se aprende mejor enseñando.
+## Tips:
+- 30 min/day is enough
+
+- Document every error
+
+- Focus on consistency, not perfection
+
+Useful links are in the README. Need help? Just reach out. Teaching is the best way to learn.
 
 ---
 
