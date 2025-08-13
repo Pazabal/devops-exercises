@@ -1,4 +1,4 @@
-# Cuaderno DevOps + AI 🚀🤖
+# Cuaderno DevOps + AI
 
 Este repo es mi espacio para practicar DevOps (K8s, Terraform, Vault, Ansible, Istio, Azure) y AI (LLM, RAG).
 
