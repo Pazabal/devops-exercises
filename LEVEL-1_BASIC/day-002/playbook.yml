@@ -1,0 +1,23 @@
+- name: Configurar servidor web
+  hosts: web
+  become: yes
+  tasks:
+    - name: Instalar Nginx
+      ansible.builtin.yum:
+        name: nginx
+        state: present
+
+    - name: Iniciar y habilitar Nginx
+      ansible.builtin.service:
+        name: nginx
+        state: started
+        enabled: true
+
+    - name: Crear usuario "deploy"
+      ansible.builtin.user:
+        name: deploy
+
+    - name: Copiar archivo de bienvenida
+      ansible.builtin.copy:
+        content: "¡Hola desde Ansible!"
+        dest: /home/ec2-user/bienvenida.txt
