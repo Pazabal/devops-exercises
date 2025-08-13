@@ -20,7 +20,7 @@ I'm learning cloud infrastructure on AWS and Azure, automation, security, and ho
 
 - Focus on consistency, not perfection
 
-Useful links are in the README. Need help? Just reach out. Teaching is the best way to learn.
+Need help? Just reach out. Teaching is the best way to learn.
 
 ---
 
